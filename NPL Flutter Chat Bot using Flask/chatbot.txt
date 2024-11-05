@@ -1,0 +1,5 @@
+unstructured		structured data example
+add eggs and milk	<shopping list>
+to my shopping list		<item>eggs</item>
+				<item>milk</item>
+			</shopping list>
