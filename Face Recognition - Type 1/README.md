@@ -61,3 +61,11 @@ pip install face_recognition
 ```commandline
 pip install imutils
 ```
+
+![Image](1.PNG)
+![Image](2.PNG)
+![Image](3.PNG)
+![Image](4.PNG)
+![Image](5.PNG)
+![Image](6.PNG)
+![Image](7.PNG)
