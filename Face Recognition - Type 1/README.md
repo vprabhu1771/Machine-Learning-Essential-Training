@@ -62,6 +62,14 @@ pip install face_recognition
 pip install imutils
 ```
 
+```commandline
+pip install --upgrade setuptools
+```
+
+```commandline
+ pip install face_recognition_models
+```
+
 ![Image](1.PNG)
 ![Image](2.PNG)
 ![Image](3.PNG)
