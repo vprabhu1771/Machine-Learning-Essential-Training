@@ -68,4 +68,3 @@ pip install imutils
 ![Image](4.PNG)
 ![Image](5.PNG)
 ![Image](6.PNG)
-![Image](7.PNG)
