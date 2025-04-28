@@ -18,3 +18,11 @@ to check if your GPU driver and CUDA is enabled and accessible by PyTorch, run t
 import torch
 torch.cuda.is_available()
 ```
+
+```
+import torch
+
+print(torch.cpu.current_device())
+
+print(torch.cpu.device_count())
+```
