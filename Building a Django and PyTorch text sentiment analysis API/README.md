@@ -35,8 +35,8 @@ class SentimentModel(nn.Module):
 Create a Django project and an app for API:
 
 ```bash
-django-admin startproject sentiment_project
-cd sentiment_project
+django-admin startproject config .
+cd config
 python manage.py startapp sentiment_api
 ```
 
