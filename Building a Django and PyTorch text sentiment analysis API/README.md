@@ -100,7 +100,7 @@ urlpatterns = [
 ]
 ```
 
-In `sentiment_project/urls.py`, include:
+In `config/urls.py`, include:
 ```python
 from django.urls import path, include
 
